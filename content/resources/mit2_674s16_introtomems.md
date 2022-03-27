@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 37212727-2cf7-b919-4a4c-397952899b9c
 resourcetype: Document
 title: Introduction to Micro Electromechanical System
 uid: b16097f3-abe7-5a9c-249f-50a0f5c5c957

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lab Notes
 parent_type: CourseSection
+parent_uid: d3b07c27-e5d4-8d13-b9ff-06afa6ce12b9
 resourcetype: Document
 title: Atomic Force Microscopy Lab Introduction
 uid: 86aad5b7-d546-011e-2392-e59f978d1a46

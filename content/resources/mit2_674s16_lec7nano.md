@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1897761e-78d3-59dc-f5fe-323459810593
 resourcetype: Document
 title: 2.674 (S16)  Nanomaterials Synthesis and Surface
 uid: 5a9675da-058a-aeab-7e24-f902ef2bf35e

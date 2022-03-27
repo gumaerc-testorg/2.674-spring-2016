@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lab Notes
 parent_type: CourseSection
+parent_uid: d3b07c27-e5d4-8d13-b9ff-06afa6ce12b9
 resourcetype: Document
 title: Labs 1-2 Fun with Molding
 uid: 16d43956-933b-b216-7492-dbafebaa50c5
