@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ' This section includes microscope conversions for Nikon and Omano.'
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lab Notes

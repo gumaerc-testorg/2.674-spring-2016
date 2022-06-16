@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes Course Meeting Times, Prerequisites, corequisites,
+  course highlight, brief explanation of lectures and labs, as well as grading policy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +18,7 @@ Labs: 1 session / week, 3 hours / session
 Prerequisites
 -------------
 
-[_2.001 Mechanics & Materials I_](/courses/2-001-mechanics-materials-i-fall-2006/); [_3.091SC Introduction to Solid State Chemistry_](/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/) or [_5.111 Principles of Chemical Science_](/courses/5-111-principles-of-chemical-science-fall-2008/) or permission of the instructor.
+[_2.001 Mechanics & Materials I_](/courses/2-001-mechanics-materials-i-fall-2006); [_3.091SC Introduction to Solid State Chemistry_](/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010) or [_5.111 Principles of Chemical Science_](/courses/5-111-principles-of-chemical-science-fall-2008) or permission of the instructor.
 
 Corequisite
 -----------
@@ -44,7 +46,7 @@ There are eleven labs roughly falling into five categories.
 4.  Growing, building and observing micro and nanostructures (Labs 7, 8 and 9)
 5.  Scanning nanosurfaces with AFM cantilevers (Labs 10 and 11)
 
-The lab modules will have students _touch, see, build_ micro-and nano-scale objects and _think_ about their design implications and the underlying science through lab sessions. For each lab module, [a comprehensive reader containing background material]({{< baseurl >}}/pages/readings), laboratory protocols and lab write-up questions will be distributed in lecture. Suggested background reading material is very useful for the completion of the lab write-up material.
+The lab modules will have students _touch, see, build_ micro-and nano-scale objects and _think_ about their design implications and the underlying science through lab sessions. For each lab module, {{% resource_link 37212727-2cf7-b919-4a4c-397952899b9c "a comprehensive reader containing background material" %}}, laboratory protocols and lab write-up questions will be distributed in lecture. Suggested background reading material is very useful for the completion of the lab write-up material.
 
 Lab Reports
 -----------
