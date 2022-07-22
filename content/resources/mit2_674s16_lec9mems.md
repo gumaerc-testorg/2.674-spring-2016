@@ -6,6 +6,7 @@ file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/fdf4b636b1e49
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 2.674 (S16) MEMS Fabrication Processes and AFM
 uid: fdf4b636-b1e4-9e3a-87cd-bcea8f8812bd
 ---
 This resource contains information regarding MEMS fabrication processes and AFM.
-

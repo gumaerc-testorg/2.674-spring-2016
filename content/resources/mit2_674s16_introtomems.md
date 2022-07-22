@@ -6,6 +6,7 @@ file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/b16097f3abe75
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Introduction to Micro Electromechanical System
 uid: b16097f3-abe7-5a9c-249f-50a0f5c5c957
 ---
 This file contains the information regarding Introduction to Micro Electromechanical System.
-

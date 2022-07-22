@@ -5,6 +5,7 @@ file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/f28f8672e6386
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Mirofluidic Mixing
 uid: f28f8672-e638-6d65-276d-2e6776ae8611
 ---
 This file contains the information regarding Mirofluidic mixing.
-

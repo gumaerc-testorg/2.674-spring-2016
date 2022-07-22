@@ -6,6 +6,7 @@ file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/f1f07e63b04da
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 2.674 (S16) Lecture 3 Introduction to Microfluidics and Soft Lithography
 uid: f1f07e63-b04d-a144-69e1-c62c7ea19f82
 ---
 This resource contains information regarding Introduction to Microfluidics and Soft Lithography.
-

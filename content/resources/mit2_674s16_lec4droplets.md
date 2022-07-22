@@ -7,6 +7,7 @@ file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/c81afa290286b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: '2.674 (S16) Lecture 4: Microfluidic Hydrodynamics: Viscous Flow, Surface
 uid: c81afa29-0286-beb9-4674-aa08df1de10e
 ---
 This resource contains information regarding micro/nano engineering laboratory: Microfluidic hydrodynamics: viscous flow, surface tension, and the problem of mixing.
-

@@ -6,6 +6,7 @@ file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/5a9675da058aa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 2.674 (S16)  Nanomaterials Synthesis and Surface
 uid: 5a9675da-058a-aeab-7e24-f902ef2bf35e
 ---
 This resource contains information regarding Nanomaterials Synthesis and Surface.
-

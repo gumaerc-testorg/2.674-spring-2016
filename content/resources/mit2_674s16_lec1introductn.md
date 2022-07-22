@@ -6,6 +6,7 @@ file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/0024074861406
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 1: Introduction to Micro / Nano Engineering'
 uid: 00240748-6140-6dce-cea2-9120c86f8f87
 ---
 This resource contains information regarding micro/nano engineering laboratory: Introduction to micro / nano engineering.
-
