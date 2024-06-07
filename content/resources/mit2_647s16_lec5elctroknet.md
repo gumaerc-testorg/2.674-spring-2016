@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding micro/nano engineering
   laboratory: Microfluidic Hydrodynamics: Electrokinetic Flows '
 file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/9276d2f8e7d7045bf4d28f17d0d71f8b_MIT2_647S16_Lec5Elctroknet.pdf
+file_size: 3685003
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding Introduction to Micro Electromechanical
   System.
 file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/b16097f3abe75a9c249f50a0f5c5c957_MIT2_674S16_IntroToMEMS.pdf
+file_size: 1557027
 file_type: application/pdf
 learning_resource_types:
 - Readings
