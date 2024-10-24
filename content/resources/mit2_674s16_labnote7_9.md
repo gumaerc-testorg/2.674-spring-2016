@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding Growing and Observing Micro
   and Nanostructures.
-file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/5e8825ec9afb0ff25960fadf0a61d3af_MIT2_674S16_LabNote7_9.pdf
+file: /ol-ocw-studio-app/courses/2-674-micro-nano-engineering-laboratory-spring-2016/5e8825ec9afb0ff25960fadf0a61d3af_MIT2_674S16_LabNote7_9.pdf
 file_size: 1476234
 file_type: application/pdf
 learning_resource_types: []
