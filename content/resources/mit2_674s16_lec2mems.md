@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-674-micro-nano-engineering-laboratory-spring-2016/5901cd21ac2618ec21240ebbe12c96a3_MIT2_674S16_Lec2MEMS.pdf
+file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/5901cd21ac2618ec21240ebbe12c96a3_MIT2_674S16_Lec2MEMS.pdf
 file_size: 740497
 file_type: application/pdf
 learning_resource_types:
