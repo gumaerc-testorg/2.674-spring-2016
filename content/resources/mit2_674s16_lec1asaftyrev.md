@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding micro/nano engineering
   laboratory: Lecture 1a safety review.'
-file: /ol-ocw-studio-app/courses/2-674-micro-nano-engineering-laboratory-spring-2016/545735bc7f0d007fa7937be04f0cfda8_MIT2_674S16_Lec1aSaftyRev.pdf
+file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/545735bc7f0d007fa7937be04f0cfda8_MIT2_674S16_Lec1aSaftyRev.pdf
 file_size: 5799051
 file_type: application/pdf
 learning_resource_types:

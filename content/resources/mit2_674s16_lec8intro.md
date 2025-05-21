@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contain information regarding Introduction to Nano-scale
   Imaging and 3D Printing.
-file: /ol-ocw-studio-app/courses/2-674-micro-nano-engineering-laboratory-spring-2016/2fdf79749e78dc3503b39f68412395d5_MIT2_674S16_Lec8Intro.pdf
+file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/2fdf79749e78dc3503b39f68412395d5_MIT2_674S16_Lec8Intro.pdf
 file_size: 2726463
 file_type: application/pdf
 learning_resource_types:
