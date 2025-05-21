@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding micro/nano engineering
   laboratory: Microfluidic hydrodynamics: viscous flow, surface tension, and the problem
   of mixing.'
-file: /ol-ocw-studio-app/courses/2-674-micro-nano-engineering-laboratory-spring-2016/c81afa290286beb94674aa08df1de10e_MIT2_674S16_Lec4Droplets.pdf
+file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/c81afa290286beb94674aa08df1de10e_MIT2_674S16_Lec4Droplets.pdf
 file_size: 6108929
 file_type: application/pdf
 learning_resource_types:
