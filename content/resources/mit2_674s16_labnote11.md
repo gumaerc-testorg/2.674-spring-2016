@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding Graphene.
-file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/6cabf325714f538b02a22b80199d8e20_MIT2_674S16_LabNote11.pdf
+file: /ol-ocw-studio-app/courses/2-674-micro-nano-engineering-laboratory-spring-2016/6cabf325714f538b02a22b80199d8e20_MIT2_674S16_LabNote11.pdf
 file_size: 1185390
 file_type: application/pdf
 learning_resource_types: []
