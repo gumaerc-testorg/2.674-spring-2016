@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/61dcf5585f8ea9e67c17ed784bcd85f4_MIT2_674S16_Lec10graphene.pdf
+file: /ol-ocw-studio-app/courses/2-674-micro-nano-engineering-laboratory-spring-2016/61dcf5585f8ea9e67c17ed784bcd85f4_MIT2_674S16_Lec10graphene.pdf
 file_size: 3288496
 file_type: application/pdf
 learning_resource_types:

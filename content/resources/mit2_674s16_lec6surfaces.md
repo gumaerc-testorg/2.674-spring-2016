@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contain information regarding  engineering of surfaces
   in micro / nano devices, surface wetting.
-file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/679565c9cc41c21139999fc6ff92249b_MIT2_674S16_Lec6Surfaces.pdf
+file: /ol-ocw-studio-app/courses/2-674-micro-nano-engineering-laboratory-spring-2016/679565c9cc41c21139999fc6ff92249b_MIT2_674S16_Lec6Surfaces.pdf
 file_size: 6887396
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Nanomaterials Synthesis
   and Surface.
-file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/5a9675da058aaeab7e24f902ef2bf35e_MIT2_674S16_Lec7Nano.pdf
+file: /ol-ocw-studio-app/courses/2-674-micro-nano-engineering-laboratory-spring-2016/5a9675da058aaeab7e24f902ef2bf35e_MIT2_674S16_Lec7Nano.pdf
 file_size: 3346077
 file_type: application/pdf
 learning_resource_types:
